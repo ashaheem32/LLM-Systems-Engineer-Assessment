@@ -19,6 +19,7 @@ venv.bak/
 gpt2-lora-imdb/
 results/
 data/
+IMPLEMENTATION_PLAN.md
 
 # OS generated files
 .DS_Store
