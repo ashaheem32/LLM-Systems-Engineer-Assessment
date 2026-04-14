@@ -1,0 +1,13 @@
+torch
+transformers>=4.40
+peft>=0.9
+datasets
+bitsandbytes
+accelerate
+evaluate
+scikit-learn
+matplotlib
+seaborn
+tqdm
+jupyter
+ipywidgets
